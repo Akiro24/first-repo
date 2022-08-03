@@ -8,6 +8,7 @@ public class Main {
         System.err.println("hello world");
         System.out.println("hello world");
         System.out.println("hello world");
+        System.out.println("hello earth");
 
     }
 
